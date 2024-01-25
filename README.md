@@ -1,4 +1,1 @@
 # demo-git-github
-# text adaugat ulterior
-# text adaugat din platforma de github
-# Un nou text mai lung
